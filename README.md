@@ -5,4 +5,4 @@ Classified Operation: Hackcentral has infiltrated critical systems worldwide, an
 
 The dashboard is located here:
 
-[https://hackcentral.fly.dev/](https://hackcentral.fly.dev/new/home)
+[https://hackcentral.darkfor.ge/](https://hackcentral.darkfor.ge/)
